@@ -1,0 +1,3 @@
+https://github.com/RubenAzocar/ejercicio_practico_06_mod_04---Manejo_promesas_JS.git
+
+https://rubenazocar.github.io/ejercicio_practico_06_mod_04---Manejo_promesas_JS/
